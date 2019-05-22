@@ -25,6 +25,7 @@
 ## 介绍
 整理了可以代替或补充学校课程的优秀公开课与相关教材，绝大多数课程都是自己看过或看完的，或者了解过准备后面跟的课程，教材也是看过或看完的，或者是后面准备跟的课程的教材。
 希望如果有其他好的推荐可以 PR 一下，推荐的课程或教材必须是自己看过或者至少是了解过感觉不错后面想跟的，而且推荐的课程最好是和自己学校开的课同类型的。
+现在先整理出列表，后面会添加上对于这些课程的学习建议和感觉的难度。
 欢迎大家 fork 和 PR！
 
 ## MOOC
@@ -33,8 +34,8 @@
 ### 操作系统
 
 <span id="CS_162"></span>
-- [CS 162](<https://inst.eecs.berkeley.edu/~cs162/archives.html>)
-  - [无字幕](<https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c>)
+- [CS 162](<https://inst.eecs.berkeley.edu/~cs162/archives.html>) **Operating Systems and Systems Programming**
+  - [无字幕 2015 Spring](<https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c>)
 
 <span id="MOOC_DS"></span>
 ### 数据结构
@@ -50,9 +51,9 @@
 
 <span id="ICS"></span>
 - [15-213](<https://www.cs.cmu.edu/~213/index.html>) **Introduction to Computer Systems (ICS)**
-  - [无字幕](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&maxResults=150)
+  - [Panopto 无字幕 2015 Fall](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&maxResults=150)
 - [CS 61 C](<https://inst.eecs.berkeley.edu/~cs61c/archives.html>) **Machine Structures**
-  - [无字幕](<http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html>)
+  - [无字幕 2015 Spring](<http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html>)
 
 <span id="MOOC_Algorithms"></span>
 ### 算法
@@ -64,19 +65,22 @@
 <span id="MOOC_Internet"></span>
 ### 计算机网络
 
-- [CS 168](<https://inst.eecs.berkeley.edu/~cs168/fa15/>) **Introduction to the Internet: Architecture and Protocols**
+<span id="14-740"></span>
+- [14-740](http://www.ini740.com/F18/index.html) **Fundamentals of Computer Networks**
+  - [无字幕 2018 Fall](http://www.ini740.com/F18/index.html#videos)
 
 <span id="MOOC_Database"></span>
 ### 数据库
 
-- [15-721](<https://15721.courses.cs.cmu.edu/spring2019/>)
-  - [无字幕](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="ed2ee867-9610-4bad-94af-5d12c2ea47cd")
+- [15-721](<https://15721.courses.cs.cmu.edu/spring2019/>) **Database Systems**
+  - [Panopto 无字幕 2015](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="ed2ee867-9610-4bad-94af-5d12c2ea47cd")
+  - [Youtube 无字幕 2017](https://www.youtube.com/watch?v=UGMLKsma_VU&list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0&index=2&t=0s)
 
 <span id="MOOC_CS_Introductory"></span>
 ### 计算机引论类
 
 - [15-251](<http://www.cs.cmu.edu/~15251/index.html>)
-  - [无字幕](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="bcf8243e-cf18-481f-960f-3c5b26fbb69b")
+  - [Panopto 无字幕 2015 Spring](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="bcf8243e-cf18-481f-960f-3c5b26fbb69b") **Great Ideas in Theoretical Computer Science**
 
 <span id="TextBook"></span>
 ## 教材
@@ -107,12 +111,18 @@
 ### 算法
 
 - 算法导论
-  - [英文版]([https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?keywords=%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA+%E8%8B%B1%E6%96%87%E7%89%88&qid=1558442450&s=books&sr=1-1](https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?keywords=算法导论+英文版&qid=1558442450&s=books&sr=1-1))
+  - [英文版](https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?keywords=%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA+%E8%8B%B1%E6%96%87%E7%89%88&qid=1558442450&s=books&sr=1-1)
   - 配套课程：
     - [算法导论（MIT）](#算法导论)
 
 <span id="TextBook_Internet"></span>
 ### 计算机网络
+
+- Computer Networking: A Top-Down Approach
+  - [英文版](https://www.barnesandnoble.com/w/computer-networking-james-f-kurose/1100056229)
+  - [中文版](https://item.jd.com/12392810.html)
+  - 配套课程
+    - [14-740](#14-740)
 
 <span id="TextBook_Database"></span>
 ### 数据库

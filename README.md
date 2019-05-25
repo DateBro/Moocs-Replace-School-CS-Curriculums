@@ -12,6 +12,7 @@
 		- [计算机网络](#MOOC_Internet)
 		- [数据库](#MOOC_Database)
 		- [计算机引论类](#MOOC_CS_Introductory)
+		- [编程语言](#MOOC_PL)
 	- [教材](#TextBook)
 		- [操作系统](#TextBook_OS)
 		- [数据结构](#TextBook_DS)
@@ -20,6 +21,7 @@
 		- [计算机网络](#TextBook_Internet)
 		- [数据库](#TextBook_Database)
 		- [计算机引论类](#TextBook_CS_Introductory)
+		- [编程语言](#TextBook_PL)
   -  [编程电子书搜索器](#PDF_Search_Engine)
 
 ## 介绍
@@ -72,6 +74,11 @@
 <span id="MOOC_Database"></span>
 ### 数据库
 
+<span id="15-445"></span>
+- [15-445](https://15445.courses.cs.cmu.edu/fall2018/) **Introduction to Database Systems**
+  - [YouTube 无字幕 Fall 2018](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7)
+  - [YouTube 无字幕 Fall 2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
+<span id="15-721"></span>
 - [15-721](<https://15721.courses.cs.cmu.edu/spring2019/>) **Database Systems**
   - [Panopto 无字幕 2015](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="ed2ee867-9610-4bad-94af-5d12c2ea47cd")
   - [Youtube 无字幕 2017](https://www.youtube.com/watch?v=UGMLKsma_VU&list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0&index=2&t=0s)
@@ -81,6 +88,15 @@
 
 - [15-251](<http://www.cs.cmu.edu/~15251/index.html>)
   - [Panopto 无字幕 2015 Spring](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="bcf8243e-cf18-481f-960f-3c5b26fbb69b") **Great Ideas in Theoretical Computer Science**
+- [CS 61A](https://cs61a.org/)**Structure and Interpretation of Computer Programs [Python]**
+  - [无字幕](https://cs61a.org/)
+
+<span id="MOOC_PL"></span>
+### 编程语言
+- [CS 143](http://web.stanford.edu/class/cs143/) **Compilers -Stanford University**
+  - [无字幕](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
+- [CSE 341](https://courses.cs.washington.edu/courses/cse341/) **Programming Languages -UW**
+  - [无字幕 Coursera](https://www.coursera.org/learn/programming-languages/home/welcome)
 
 <span id="TextBook"></span>
 ## 教材
@@ -90,6 +106,10 @@
 
 - [Operating Systems: Principles and Practice](<https://www.amazon.com/Operating-Systems-Principles-Thomas-Anderson/dp/0985673524>)
   - 配套课程：
+    - [CS 162](#CS_162)
+- [Operating System Concepts](http://os-book.com/) **操作系统概念**
+  - [英文版](http://os-book.com/OS10/index.html)
+  - 配套课程:
     - [CS 162](#CS_162)
 
 <span id="TextBook_DS"></span>
@@ -118,7 +138,7 @@
 <span id="TextBook_Internet"></span>
 ### 计算机网络
 
-- Computer Networking: A Top-Down Approach
+- [Computer Networking: A Top-Down Approach](https://book.douban.com/subject/26176870/) **计算机网络：自顶向下方法**
   - [英文版](https://www.barnesandnoble.com/w/computer-networking-james-f-kurose/1100056229)
   - [中文版](https://item.jd.com/12392810.html)
   - 配套课程
@@ -126,9 +146,18 @@
 
 <span id="TextBook_Database"></span>
 ### 数据库
+- [Database System Concepts](https://www.db-book.com/)
+  - [英文版](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0073523321)
+  - 配套课程
+    - [14-445](#15-445)
 
 <span id="TextBook_CS_Introductory"></span>
 ### 计算机引论类
+
+<span id="TextBook_PL"></span>
+### 编程语言
+- [SICP](https://book.douban.com/subject/1148282/) **计算机程序的构造和解释**
+  - [英文版 epub,pdf 可选](https://github.com/sarabander/sicp)
 
 <span id="PDF_Search_Engine"></span>
 ## 编程电子书搜索器

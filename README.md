@@ -61,8 +61,13 @@
 ### 算法
 
 <span id="算法导论"></span>
-- [算法导论](<https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/>)
+- [6.006 -MIT](<https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/>) **算法导论**
   - [英文字幕](<https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/>)
+<span id="CS-170"></span>
+- [CS 170](https://cs170.org/) **Efficient Algorithms and Intractable Problems**
+  - [英文字幕 Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s)
+  - [无字幕 2013, Bilibili](https://www.bilibili.com/video/av26670685/)
+  - [无字幕 Fall 2018, Bilibili](https://www.bilibili.com/video/av43955743/?p=1)
 
 <span id="MOOC_Internet"></span>
 ### 计算机网络
@@ -88,8 +93,12 @@
 
 - [15-251](<http://www.cs.cmu.edu/~15251/index.html>)
   - [Panopto 无字幕 2015 Spring](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID="bcf8243e-cf18-481f-960f-3c5b26fbb69b") **Great Ideas in Theoretical Computer Science**
+<span id="CS-61A"></span>
 - [CS 61A](https://cs61a.org/)**Structure and Interpretation of Computer Programs [Python]**
   - [无字幕](https://cs61a.org/)
+<span id="6.001-MIT"></span>
+- [6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) **Structure and Interpretation of Computer Programs, MIT**
+  - [英文字幕](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
 <span id="MOOC_PL"></span>
 ### 编程语言
@@ -134,6 +143,10 @@
   - [英文版](https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?keywords=%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA+%E8%8B%B1%E6%96%87%E7%89%88&qid=1558442450&s=books&sr=1-1)
   - 配套课程：
     - [算法导论（MIT）](#算法导论)
+- [Algorithms](http://cseweb.ucsd.edu/~dasgupta/book/index.html)
+  - [英文版](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
+  - 配套课程
+    - [CS 170](#CS-170)
 
 <span id="TextBook_Internet"></span>
 ### 计算机网络
@@ -153,11 +166,14 @@
 
 <span id="TextBook_CS_Introductory"></span>
 ### 计算机引论类
+- [SICP](https://book.douban.com/subject/1148282/) **计算机程序的构造和解释**
+  - [英文版 epub,pdf 可选](https://github.com/sarabander/sicp)
+  - 配套课程：
+    - [CS 61A](#CS-61A)
+    - [6.001](#6.001-MIT)
 
 <span id="TextBook_PL"></span>
 ### 编程语言
-- [SICP](https://book.douban.com/subject/1148282/) **计算机程序的构造和解释**
-  - [英文版 epub,pdf 可选](https://github.com/sarabander/sicp)
 
 <span id="PDF_Search_Engine"></span>
 ## 编程电子书搜索器

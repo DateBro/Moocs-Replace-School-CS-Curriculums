@@ -16,6 +16,10 @@
 		- [机器学习](#MOOC_ML)
     		- [深度学习](#MOOC_DL)
   		- [数学](#MOOC_Math)
+    		- [微积分](#MOOC_Calculus)
+    		- [离散数学](#MOOC_Discrete)
+    		- [线性代数](#MOOC_Linear_Algebra)
+    		- [概率论](#MOOC_Probability)
 	- [教材](#TextBook)
 		- [操作系统](#TextBook_OS)
 		- [数据结构](#TextBook_DS)
@@ -28,6 +32,10 @@
 		- [机器学习](#TextBook_ML)
     		- [深度学习](#TextBook_DL)
   		- [数学](#TextBook_Math)
+    		- [微积分](#TextBook_Calculus)
+    		- [离散数学](#TextBook_Discrete)
+    		- [线性代数](#TextBook_Linear_Algebra)
+    		- [概率论](#TextBook_Probability)
   -  [编程电子书搜索器](#PDF_Search_Engine)
 
 ## 介绍

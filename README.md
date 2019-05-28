@@ -1,7 +1,7 @@
-# Moocs-Replace-School-Curriculums
+# Moocs-Replace-School-CS-Curriculums
 
 ## 目录：
-- [Moocs-Replace-School-Curriculums](#Moocs-Replace-School-Curriculums)
+- [Moocs-Replace-School-CS-Curriculums](#Moocs-Replace-School-CS-Curriculums)
 	- [目录](#目录)
 	- [介绍](#介绍)
 	- [MOOC](#MOOC)
@@ -12,7 +12,10 @@
 		- [计算机网络](#MOOC_Internet)
 		- [数据库](#MOOC_Database)
 		- [计算机引论类](#MOOC_CS_Introductory)
-		- [编程语言](#MOOC_PL)
+		- [编译原理](#MOOC_Compiler)
+		- [机器学习](#MOOC_ML)
+    		- [深度学习](#MOOC_DL)
+  		- [数学](#MOOC_Math)
 	- [教材](#TextBook)
 		- [操作系统](#TextBook_OS)
 		- [数据结构](#TextBook_DS)
@@ -21,7 +24,10 @@
 		- [计算机网络](#TextBook_Internet)
 		- [数据库](#TextBook_Database)
 		- [计算机引论类](#TextBook_CS_Introductory)
-		- [编程语言](#TextBook_PL)
+		- [编程语言](#TextBook_Compiler)
+		- [机器学习](#TextBook_ML)
+    		- [深度学习](#TextBook_DL)
+  		- [数学](#TextBook_Math)
   -  [编程电子书搜索器](#PDF_Search_Engine)
 
 ## 介绍
@@ -60,8 +66,12 @@
 <span id="ICS"></span>
 - [15-213 - CMU](<https://www.cs.cmu.edu/~213/index.html>) **Introduction to Computer Systems (ICS)**
   - [Panopto 无字幕 2015 Fall](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&maxResults=150)
+- [CSE 351 - UW](http://courses.cs.washington.edu/courses/cse351/)
+  - [无字幕 2017 Winter Bilibili](https://www.bilibili.com/video/av40369353/)
 - [CS 61 C - UCB](<https://inst.eecs.berkeley.edu/~cs61c/archives.html>) **Machine Structures**
   - [无字幕 2015 Spring](<http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html>)
+- [CSEP 548 - UW](https://courses.cs.washington.edu/courses/csep548/) **Computer Architecture**
+  - [英文字幕 Autumn 2012](https://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
 
 <span id="MOOC_Algorithms"></span>
 ### 算法
@@ -113,12 +123,58 @@
 - [6.001 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) **Structure and Interpretation of Computer Programs, MIT**
   - [英文字幕](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
-<span id="MOOC_PL"></span>
+<span id="MOOC_Compiler"></span>
 ### 编程语言
 - [CS 143 - Stanford University](http://web.stanford.edu/class/cs143/) **Compilers**
   - [无字幕](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
 - [CSE 341 - UW](https://courses.cs.washington.edu/courses/cse341/) **Programming Languages**
   - [无字幕 Coursera](https://www.coursera.org/learn/programming-languages/home/welcome)
+
+<span id="MOOC_ML"></span>
+### 机器学习
+- [CS 229 - Stanford](http://cs229.stanford.edu/) **Machine Learning by Andrew Ng**
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [Youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+<span id="MOOC_DL"></span>
+#### 深度学习
+- [6.S191 - MIT](http://introtodeeplearning.com/) **Introduction to Deep Learning**
+  - [英文字幕 YouTube](https://www.youtube.com/watch?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&time_continue=3&v=5v1JnYv_yWs)
+- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.coursera.org/learn/neural-networks/home/welcome)
+  - [YouTuBe](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+
+<span id="MOOC_Math"></span>
+### 数学
+
+<span id="MOOC_Calculus"></span>
+#### 微积分
+- [18.01 Single Variable Calculus, Fall 2006 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+  - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
+- [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+  - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
+- [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+  - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/)
+- [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
+  - [英文字幕](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/highlights_of_calculus/big-picture-of-calculus/)
+
+<span id="MOOC_Discrete"></span>
+#### 离散数学
+- [6.042J - Mathematics for Computer Science, Fall 2010, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+  - [英文字幕](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+- [CS 70 - UCB]() **Discrete Mathematics and Probability Theory**
+  - [无字幕](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
+
+<span id="MOOC_Linear_Algebra"></span>
+#### 线性代数
+- [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+  - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
+- [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
+  - [英文字幕](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
+
+<span id="MOOC_Probability"></span>
+#### 概率论
+- [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+  - [英文字幕](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/)
 
 <span id="TextBook"></span>
 ## 教材
@@ -185,8 +241,29 @@
     - [CS 61A](#CS-61A)
     - [6.001](#6.001-MIT)
 
-<span id="TextBook_PL"></span>
+<span id="TextBook_Compiler"></span>
 ### 编程语言
+
+<span id="TextBook_ML"></span>
+### 机器学习
+
+<span id="TextBook_DL"></span>
+#### 深度学习
+
+<span id="TextBook_Math"></span>
+### 数学
+
+<span id="TextBook_Calculus"></span>
+#### 微积分
+
+<span id="TextBook_Discrete"></span>
+#### 离散数学
+
+<span id="TextBook_Linear_Algebra"></span>
+#### 线性代数
+
+<span id="TextBook_Probability"></span>
+#### 概率论
 
 <span id="PDF_Search_Engine"></span>
 ## 编程电子书搜索器

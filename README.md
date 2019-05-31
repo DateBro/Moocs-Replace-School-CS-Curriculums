@@ -28,7 +28,7 @@
 		- [计算机网络](#TextBook_Internet)
 		- [数据库](#TextBook_Database)
 		- [计算机引论类](#TextBook_CS_Introductory)
-		- [编程语言](#TextBook_Compiler)
+		- [编译原理](#TextBook_Compiler)
 		- [机器学习](#TextBook_ML)
     		- [深度学习](#TextBook_DL)
   		- [数学](#TextBook_Math)
@@ -212,6 +212,7 @@
   - [英文版](http://finelybook.com/computer-systems-a-programmers-perspective-3rd-global-edition/)
   - 配套课程:
     - [15-213](#ICS)
+- [Computer Organization and Design RISC-V Edition: The Hardware Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-ebook/dp/B0714LM21Z)
 
 <span id="TextBook_Algorithms"></span>
 ### 算法
@@ -250,25 +251,36 @@
     - [6.001](#6.001-MIT)
 
 <span id="TextBook_Compiler"></span>
-### 编程语言
+### 编译原理
+- [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) **龙书**
+  - [英文版](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+- [Modern Compiler Implementation in Java](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X) **虎书(第二版)**
+- [Engineering a Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X) **橡书**
+- [Advanced Compiler Design and Implementation](https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204) **鲸书**
 
 <span id="TextBook_ML"></span>
 ### 机器学习
+- [统计学习方法](https://book.douban.com/subject/10590856/)
+- [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)
+  - [英文版 Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
 <span id="TextBook_DL"></span>
 #### 深度学习
+- [Deep Learning: Adaptive Computation and Machine Learning series](https://book.douban.com/subject/27087503/) **花书**
 
 <span id="TextBook_Math"></span>
 ### 数学
 
 <span id="TextBook_Calculus"></span>
 #### 微积分
+- [同济高等数学](https://book.douban.com/subject/2112359/)
 
 <span id="TextBook_Discrete"></span>
 #### 离散数学
 
 <span id="TextBook_Linear_Algebra"></span>
 #### 线性代数
+- [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/) **线性代数导论**
 
 <span id="TextBook_Probability"></span>
 #### 概率论

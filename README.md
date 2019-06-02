@@ -20,6 +20,7 @@
     		- [离散数学](#MOOC_Discrete)
     		- [线性代数](#MOOC_Linear_Algebra)
     		- [概率论](#MOOC_Probability)
+  		- [软件工程](#MOOC_SoftwareEngineering)
 	- [教材](#TextBook)
 		- [操作系统](#TextBook_OS)
 		- [数据结构](#TextBook_DS)
@@ -36,6 +37,7 @@
     		- [离散数学](#TextBook_Discrete)
     		- [线性代数](#TextBook_Linear_Algebra)
     		- [概率论](#TextBook_Probability)
+  		- [软件工程](#TextBook_SoftwareEngineering)
   -  [编程电子书搜索器](#PDF_Search_Engine)
 
 ## 介绍
@@ -184,6 +186,11 @@
 - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
   - [英文字幕](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/)
 
+<span id="MOOC_SoftwareEngineering"></span>
+### 软件工程
+- [CS 169 - UCB](http://www-inst.eecs.berkeley.edu/~cs169/archives.html) **Software Engineering**
+  - [英文字幕 InfoCoBuild - 2015 Spring](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
+
 <span id="TextBook"></span>
 ## 教材
 
@@ -284,6 +291,9 @@
 
 <span id="TextBook_Probability"></span>
 #### 概率论
+
+<span id="TextBook_SoftwareEngineering"></span>
+### 软件工程
 
 <span id="PDF_Search_Engine"></span>
 ## 编程电子书搜索器

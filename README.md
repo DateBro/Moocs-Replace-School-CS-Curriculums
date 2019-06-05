@@ -210,7 +210,8 @@
 
 - [《Algorithms(Fourth Edition)》](https://algs4.cs.princeton.edu/)
   - [英文版](<https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X>)
-  - [配套课程](#Algorithm_Fourth)
+  - 配套课程:
+    - [Algorithms](#Algorithm_Fourth)
 
 <span id="TextBook_Computer_Organization"></span>
 ### 计算机组成原理
@@ -297,7 +298,10 @@
 
 <span id="PDF_Search_Engine"></span>
 ## 编程电子书搜索器
-这些教材大多可以在网上找到非扫描的 PDF 或者 epub 格式的电子书，我一般使用这几个电子书搜索网站，想找编程相关电子书的时候可以先在它们上试一下。
+这些教材大多可以在网上找到非扫描的 PDF 或者 epub 格式的电子书，我一般使用这几个电子书搜索网站，想找编程相关电子书的时候可以先在它们上试一下，唯一的问题可能就是它们的资源都是英文版。
 - [finelybook](http://finelybook.com/)
 - [SaltTiger](https://salttiger.com/)
-- [Library Genesis](http://www.libgen.io/)
+- [Library Genesis](http://gen.lib.rus.ec/)
+  - **Library Genesis**（创世纪图书馆）是科学论文及书籍的搜索引擎，可以免费提供被挡在付费墙(paywall)后的内容，上面的链接是主链接，有时容易死掉，当上不去的时候可以 Google 一下其他镜像网址，毕竟这是这里面资源最多的网站。
+- [我的小书屋](http://mebook.cc/)
+  - 书的种类比较杂，但也有不少编程书，都是中文的。

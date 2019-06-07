@@ -104,6 +104,8 @@
 - [CS 144 - Stanford](http://www.scs.stanford.edu/10au-cs144/) **Introduction to Computer Networks**
   - [无字幕 Bilibili](https://www.bilibili.com/video/av39441624/)
   - [无字幕 YouTube Fall 2013](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
+- [CSEP 561 - University of Washington](https://courses.cs.washington.edu/courses/csep561/13au/) **PMP Network Systems, Fall 2013**
+  - [无字幕 Autumn 2013 Lecture Archives](https://courses.cs.washington.edu/courses/csep561/13au/video/)
 
 <span id="MOOC_Database"></span>
 ### 数据库
@@ -134,17 +136,23 @@
   - [英文字幕](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
 <span id="MOOC_Compiler"></span>
-### 编程语言
+### 编译原理
 - [CS 143 - Stanford University](http://web.stanford.edu/class/cs143/) **Compilers**
   - [无字幕](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
 - [CSE 341 - UW](https://courses.cs.washington.edu/courses/cse341/) **Programming Languages**
   - [无字幕 Coursera](https://www.coursera.org/learn/programming-languages/home/welcome)
+- [CSEP 501 - University of Washington](https://courses.cs.washington.edu/courses/csep501/) **Compiler Construction**
+  - [无字幕 2016 Bilibili](https://www.bilibili.com/video/av22594386/)
+  - [无字幕 2009 Lecture Archive](https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
+- [CSEP 505 - University of Washington](https://courses.cs.washington.edu/courses/csep505/) **Programming Languages**
+  - [无字幕 Winter 2015](https://courses.cs.washington.edu/courses/csep505/15wi/video/)
 
 <span id="MOOC_ML"></span>
 ### 机器学习
 - [CS 229 - Stanford](http://cs229.stanford.edu/) **Machine Learning by Andrew Ng**
   - [Coursera](https://www.coursera.org/learn/machine-learning)
   - [Youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [10-601 - Introduction to Machine Learning (MS), CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 
 <span id="MOOC_DL"></span>
 #### 深度学习
@@ -242,6 +250,8 @@
   - [中文版](https://item.jd.com/12392810.html)
   - 配套课程
     - [14-740](#14-740)
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) **计算机网络：系统方法**
+  - [GitHub 英文版](https://github.com/SystemsApproach/book)
 
 <span id="TextBook_Database"></span>
 ### 数据库
@@ -271,6 +281,8 @@
 - [统计学习方法](https://book.douban.com/subject/10590856/)
 - [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)
   - [英文版 Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) **Scikit-Learn与TensorFlow机器学习实用指南**
+  - [中文版 Github](https://github.com/it-ebooks/hands-on-ml-zh)
 
 <span id="TextBook_DL"></span>
 #### 深度学习

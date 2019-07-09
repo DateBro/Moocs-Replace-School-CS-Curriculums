@@ -293,7 +293,7 @@
 
 <span id="TextBook_Calculus"></span>
 #### 微积分
-- [同济高等数学](https://book.douban.com/subject/2112359/)
+- [The Calculus Lifesaver: All the Tools You Need to Excel at Calculus](https://book.douban.com/subject/4926707/) **普林斯顿微积分读本**
 
 <span id="TextBook_Discrete"></span>
 #### 离散数学
@@ -301,6 +301,10 @@
 <span id="TextBook_Linear_Algebra"></span>
 #### 线性代数
 - [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/) **线性代数导论**
+- [Linear Algebra and Its Applications, by David C.Lay]() **线性代数及其应用**
+  - [5e英文版PDF](http://www.r-5.org/files/books/computers/algo-list/linear-algebra/David_Lay-Linear_Algebra_and_Its_Applications-EN.pdf)
+- [Linear Algebra and Its Applications, by Gilbert Strang](https://book.douban.com/subject/1758235/) **线性代数及其应用**
+- [Linear Algebra Done Right](https://book.douban.com/subject/3715623/) **线性代数应该这样学**
 
 <span id="TextBook_Probability"></span>
 #### 概率论

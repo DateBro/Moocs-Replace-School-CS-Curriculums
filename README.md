@@ -188,6 +188,8 @@
   - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
 - [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
   - [英文字幕](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
+- [MAT202 Linear Algebra with Applications - Princeton University](https://www.math.princeton.edu/undergraduate/placement/MAT202) ****
+  - [英文字幕 Youtube Spring 2008](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
 
 <span id="MOOC_Probability"></span>
 #### 概率论

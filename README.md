@@ -44,6 +44,7 @@
 整理了可以代替或补充学校课程的优秀公开课与相关教材，绝大多数课程都是自己看过或看完的，或者了解过准备后面跟的课程，教材也是看过或看完的，或者是后面准备跟的课程的教材。
 希望如果有其他好的推荐可以 PR 一下，推荐的课程或教材必须是自己看过或者至少是了解过感觉不错后面想跟的，而且推荐的课程最好是和自己学校开的课同类型的，而且看之前最好先在课程官网看一下所需的准备知识。
 现在先整理出列表，后面会添加上对于这些课程的学习建议和感觉的难度。
+如果觉得课程比较少，可以看一下[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)，我看的一些课程也是在这找到视频资源的。
 欢迎大家 fork 和 PR！
 
 ## MOOC
@@ -174,6 +175,8 @@
   - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/)
 - [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
   - [英文字幕](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/highlights_of_calculus/big-picture-of-calculus/)
+<span id="Calculus_Lifesaver"></span>
+- [The Calculus Lifesaver: All The Tools You Need To Excel At Calculus by Adrian Banner](https://press.princeton.edu/video/banner) **普林斯顿微积分读本配套视频**
 
 <span id="MOOC_Discrete"></span>
 #### 离散数学
@@ -184,11 +187,12 @@
 
 <span id="MOOC_Linear_Algebra"></span>
 #### 线性代数
+<span id="Linear_Algebra_Gilbert"></span>
 - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [英文字幕](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
 - [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
   - [英文字幕](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
-- [MAT202 Linear Algebra with Applications - Princeton University](https://www.math.princeton.edu/undergraduate/placement/MAT202) ****
+- [MAT202 Linear Algebra with Applications - Princeton University](https://www.math.princeton.edu/undergraduate/placement/MAT202)
   - [英文字幕 Youtube Spring 2008](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
 
 <span id="MOOC_Probability"></span>
@@ -296,6 +300,8 @@
 <span id="TextBook_Calculus"></span>
 #### 微积分
 - [The Calculus Lifesaver: All the Tools You Need to Excel at Calculus](https://book.douban.com/subject/4926707/) **普林斯顿微积分读本**
+  - 配套课程：
+    - [The Calculus Lifesaver: All The Tools You Need To Excel At Calculus by Adrian Banner](#Calculus_Lifesaver)
 
 <span id="TextBook_Discrete"></span>
 #### 离散数学
@@ -306,6 +312,8 @@
 - [Linear Algebra and Its Applications, by David C.Lay]() **线性代数及其应用**
   - [5e英文版PDF](http://www.r-5.org/files/books/computers/algo-list/linear-algebra/David_Lay-Linear_Algebra_and_Its_Applications-EN.pdf)
 - [Linear Algebra and Its Applications, by Gilbert Strang](https://book.douban.com/subject/1758235/) **线性代数及其应用**
+  - 配套课程:
+    - [Linear Algebra - Gilbert](#Linear_Algebra_Gilbert)
 - [Linear Algebra Done Right](https://book.douban.com/subject/3715623/) **线性代数应该这样学**
 
 <span id="TextBook_Probability"></span>
